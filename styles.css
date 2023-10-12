@@ -1,2 +1,18 @@
+/* Your custom CSS styles */
 
-/* Your CSS Code here. */
+/* Optional: Adjust card styles */
+.card {
+  margin-bottom: 20px; /* Add some spacing between cards */
+}
+
+.card-header {
+  color: white; /* Change header text color */
+}
+
+.card-title {
+  font-size: 1.25rem; /* Adjust title font size */
+}
+
+.card-text {
+  font-size: 1rem; /* Adjust text font size */
+}
